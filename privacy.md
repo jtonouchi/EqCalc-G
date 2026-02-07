@@ -29,7 +29,7 @@ Clipboard access occurs **only when you choose to copy results**.
 
 The App does not read or store clipboard contents at any other time.
 
-##5. In-App Purchases
+## 5. In-App Purchases
 
 The App uses RevenueCat to manage non‑consumable purchases. RevenueCat may process:
 
