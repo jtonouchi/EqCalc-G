@@ -34,7 +34,7 @@ NASA and NIST do **not** endorse this App, its developer, or any results produce
 
 NASA and NIST provide their data "as‑is," without warranties of any kind. The App uses curve‑fit data from these sources, but neither NASA nor NIST is responsible for the accuracy, performance, or results of calculations performed within the App.
 
-##4. User-Provided Data
+## 4. User-Provided Data
 
 You may upload your own thermochemical datasets for use within the App.
 
@@ -44,7 +44,7 @@ You may upload your own thermochemical datasets for use within the App.
 
 *	The App does not access, transmit, or store your datasets outside your device.
 
-##5. Calculation Results and Errors
+## 5. Calculation Results and Errors
 
 The App attempts to provide accurate calculations based on the selected models and data.
 However:
@@ -55,7 +55,7 @@ However:
 
 *	You agree that the developer is not liable for any damages arising from incorrect or incomplete results.
 
-##6. High-Risk Usage Warning
+## 6. High-Risk Usage Warning
 
 The App is **not** intended for use in high‑risk or safety‑critical engineering applications, including but not limited to:
 
@@ -69,7 +69,7 @@ The App is **not** intended for use in high‑risk or safety‑critical engineer
 
 You agree not to rely on the App as the sole source of engineering data for professional or safety‑critical decisions.
 
-##7. Freemium Model and In-App Purchases
+## 7. Freemium Model and In-App Purchases
 
 The App offers:
 
@@ -89,7 +89,7 @@ The App offers:
 
 Purchases are processed through **RevenueCat**, which uses Apple’s in‑app purchase system.
 
-##8. Restoring Purchases
+## 8. Restoring Purchases
 
 If you reinstall the App or switch devices, you may restore your Plus upgrade:
 
@@ -103,15 +103,15 @@ If you reinstall the App or switch devices, you may restore your Plus upgrade:
 
 This uses RevenueCat and Apple’s App Store system to verify your previous non‑consumable purchase.
 
-##9. Clipboard Usage
+## 9. Clipboard Usage
 
 You may copy calculation results to your device’s clipboard and paste them into other apps. The App does not monitor or store clipboard contents.
 
-##10. No User Accounts
+## 10. No User Accounts
 
 The App does not create or require user accounts. No login, registration, or personal profile is used.
 
-##11. Limitation of Liability
+## 11. Limitation of Liability
 
 To the fullest extent permitted by law:
 
@@ -121,7 +121,7 @@ To the fullest extent permitted by law:
 
 *	You assume full responsibility for verifying results independently.
 
-##12. Changes to These Terms
+## 12. Changes to These Terms
 
 Terms may be updated periodically. Continued use of the App after updates constitutes acceptance of the revised Terms.
 
