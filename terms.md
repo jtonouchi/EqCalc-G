@@ -2,7 +2,7 @@
 
 *Last Updated: February 6, 2026*
 
-Welcome to this gaseous chemical equilibrium calculator app, EqCalc-G "the App". By downloading or using the App, you agree to the following Terms & Conditions. If you do not agree, please discontinue use.
+Welcome to this gaseous chemical equilibrium calculator app, EqCalc-G ("the App"). By downloading or using the App, you agree to the following Terms & Conditions. If you do not agree, please discontinue use.
 
 ## 1. Purpose of the App
 
