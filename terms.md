@@ -73,7 +73,7 @@ You agree not to rely on the App as the sole source of engineering data for prof
 
 The App offers:
 
-*	**Free version:** Fixed enthalpy and pressure equilibrium calculations.
+*	**Basic version (free):** Fixed enthalpy and pressure equilibrium calculations.
 
 *	**Plus version (non‑consumable purchase):** Additional calculation modes, including
 
