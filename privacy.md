@@ -2,7 +2,7 @@
 
 *Last Updated: February 6, 2026*
 
-Your privacy matters. This Privacy Policy explains what information the App collects and how it is used.
+Your privacy matters. This Privacy Policy explains what information EqCalc-G ("the App") collects and how it is used.
 
 ## 1. No Personal Data Collection
 
